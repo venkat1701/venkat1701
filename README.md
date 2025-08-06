@@ -4,8 +4,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?153184944" width="50" />
 </div>
 
----
-
 ## Socials
 
 <div align="center">
@@ -16,8 +14,6 @@
 [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@blackbirdhub)
 
 </div>
-
----
 
 ## Github Profiles
 
@@ -30,8 +26,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venkat1701&theme=vision_friendly_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkat1701&theme=vision_friendly_dark&utcOffset=8"/>
 </div>
-
----
 
 ## Skills and Comfortable With
 
